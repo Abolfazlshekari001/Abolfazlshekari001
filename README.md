@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Abolfazl
 
-<!--
-**Abolfazlshekari001/Abolfazlshekari001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** specializing in **Node.js** and **NestJS**, with over 2 years of experience building scalable and modular backend systems.
 
-Here are some ideas to get you started:
+🔧 I've designed and delivered complex services such as **notification platforms**, **ticketing systems**, and other real-world microservices — focusing on **clean code**, **API design**, and **SQL database modeling**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Skills & Expertise
+- Node.js, NestJS, Express
+- RESTful API design & development
+- SQL Databases (PostgreSQL, MySQL)
+- Microservices architecture
+- DevOps basics: Docker, CI/CD pipelines
+- Unit testing & integration testing
+
+---
+
+### 🚀 Currently Learning
+- Advanced system design for distributed systems
+- DevOps engineering and automation
+
+---
+
+### 🌍 Goals & Collaboration
+I am actively looking for opportunities to contribute to open-source projects, collaborate with global teams, and work in international environments.
+
+---
+
+### 📫 Contact Me
+- Email: abolfazl.shekari.dev@gmail.com
+
+---
+
+Let's connect and build amazing things together! 🤝
