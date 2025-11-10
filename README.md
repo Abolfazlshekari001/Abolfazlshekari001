@@ -29,6 +29,7 @@ I am actively looking for opportunities to contribute to open-source projects, c
 
 ### 📫 Contact Me
 - Email: abolfazl.shekari.dev@gmail.com
+- lonkedin:www.linkedin.com/in/abolfazl-shekari-8a3798398
 
 ---
 
