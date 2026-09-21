@@ -1,36 +1,36 @@
 # 👋 Hi, I'm Abolfazl
 
-I'm a **Backend Developer** specializing in **Node.js** and **NestJS**, with over 2 years of experience building scalable and modular backend systems.
+I’m a Backend Developer currently learning and improving my skills in Node.js and NestJS, with over 2 years of experience building and experimenting with backend projects.
 
-🔧 I've designed and delivered complex services such as **notification platforms**, **ticketing systems**, and other real-world microservices — focusing on **clean code**, **API design**, and **SQL database modeling**.
+🔧 What I’m Learning & Building
 
----
+I’m currently working on real-world backend projects such as notification services, ticketing systems, and microservices, while improving my understanding of clean code, API design, database modeling, and scalable backend architecture.
 
-### ⚙️ Skills & Expertise
-- Node.js, NestJS, Express
-- RESTful API design & development
-- SQL Databases (PostgreSQL, MySQL)
-- Microservices architecture
-- DevOps basics: Docker, CI/CD pipelines
-- Unit testing & integration testing
+⚙️ Current Skills
 
----
+* Node.js, NestJS, Express
+* RESTful API development
+* PostgreSQL, MySQL
+* Microservices architecture
+* Docker and basic CI/CD
+* Unit testing & integration testing
 
-### 🚀 Currently Learning
-- Advanced system design for distributed systems
-- DevOps engineering and automation
+🚀 Currently Learning
 
----
+I’m continuously working on improving my knowledge in:
 
-### 🌍 Goals & Collaboration
-I am actively looking for opportunities to contribute to open-source projects, collaborate with global teams, and work in international environments.
+* Advanced System Design
+* Distributed Systems
+* DevOps & Automation
+* Scalable Backend Architecture
+* Software Engineering best practices
 
----
+🌱 My Goal
 
-### 📫 Contact Me
-- Email: abolfazl.shekari.dev@gmail.com
+My goal is to continuously improve as a backend developer by building real-world projects, learning from experienced developers, contributing to open-source projects, and eventually becoming capable of working effectively in international teams.
 
+📫 Contact
 
----
+Email: abolfazl.shekari.dev@gmail.com
 
-Let's connect and build amazing things together! 🤝
+I’m always open to learning, sharing knowledge, and connecting with other developers. 🤝
