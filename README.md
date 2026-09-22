@@ -32,5 +32,5 @@ My goal is to continuously improve as a backend developer by building real-world
 📫 Contact
 
 Email: abolfazl.shekari.dev@gmail.com
-
+LinkedIn: https://www.linkedin.com/in/abolfazl-shikari-8a3798398
 I’m always open to learning, sharing knowledge, and connecting with other developers. 🤝
